@@ -32,7 +32,7 @@
   
   A preview of completed HTML Team Profile 
 
-    ![team2 ](https://github.com/ShaneCurtis84/Team-Profile-Generator/blob/main/assets/images/team2.PNG)
+    ![team ](https://github.com/ShaneCurtis84/Team-Profile-Generator/blob/main/assets/images/team2.PNG)
 
    
 
