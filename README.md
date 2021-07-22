@@ -32,9 +32,9 @@
   
   A preview of completed HTML Team Profile 
 
-    ![completed template ](https://github.com/ShaneCurtis84/Team-Profile-Generator/blob/main/assets/images/team2.PNG)
+    ![team2 ](https://github.com/ShaneCurtis84/Team-Profile-Generator/blob/main/assets/images/team2.PNG)
 
-    ![team profile generator ](https://github.com/ShaneCurtis84/Team-Profile-Generator/blob/main/assets/images/team1.PNG)
+    ![team1 ](https://github.com/ShaneCurtis84/Team-Profile-Generator/blob/main/assets/images/team1.PNG)
 
 
  
