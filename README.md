@@ -15,6 +15,7 @@
   ## Table of Contents
   - [Installation](#installation)
   - [Usage](#usage)
+  - [Images](#images)
   - [License](#license)
   - [Contributing](#contributing)
   - [Tests](#tests)
@@ -32,11 +33,14 @@
   
   A preview of completed HTML Team Profile 
 
-    ![team ](https://github.com/ShaneCurtis84/Team-Profile-Generator/blob/main/assets/images/team2.PNG)
+  
 
    
+ ## Images
 
+![tests ](https://github.com/ShaneCurtis84/Team-Profile-Generator/blob/main/assets/images/team2.PNG)
 
+![tests ](https://github.com/ShaneCurtis84/Team-Profile-Generator/blob/main/assets/images/team1.PNG)
  
  
 
